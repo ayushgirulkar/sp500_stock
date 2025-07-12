@@ -2,7 +2,7 @@
 
 A React + Tailwind CSS project that displays real-time stock prices (mock and live).
 
-🚀 Features
+🚀 Features ...
 ✅ Real-time stock updates (every 10 seconds)
 ✅ Data from Twelve Data API
 ✅ Fallback to mock data if API fails
@@ -12,17 +12,17 @@ A React + Tailwind CSS project that displays real-time stock prices (mock and li
 ✅ Sort by Top Gainers or Top Losers
 ✅ Responsive for desktop & mobile
 ✅ Animated neon loader
-✅ Clean footer and SVG logo
+✅ Clean footer and SVG logo.
 
-Technologies Used--
+Technologies Used....
 React	UI framework : for building components
 Tailwind CSS :	For custom neon styling & responsive UI
 Twelve Data API	For : live stock price and % changes
 Mock JSON	: Fallback stock data when API fails
-Vite : Fast development environment
+Vite : Fast development environment.
 
 
-💡 How It Works
+💡 How It Works.....
 Fetches stock data for selected symbols (e.g., AAPL, MSFT)
 
 Updates prices and % change every 10 seconds
@@ -35,14 +35,14 @@ Buttons allow you to filter by timeframe (UI only for now)
 
 Sort buttons highlight top gainers or losers
 
-Fully styled with neon green & black using Tailwind
+Fully styled with neon green & black using Tailwind......
 
 
 
-🙌 Credits
-Built by Ayush Girulkar
+🙌 Credits...
+Built by Ayush Girulkar.
 
-Data from Twelve Data
+Data from Twelve Data.
 
 
 
