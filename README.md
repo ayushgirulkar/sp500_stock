@@ -1,4 +1,4 @@
-# S&P 500 Real-Time Stock Dashboard 
+# S&P 500 Real-Time Stock Dashboard (TrevasQ task)
 
 A **React + Tailwind CSS** project that displays **real-time stock prices** (mock and live)
 
