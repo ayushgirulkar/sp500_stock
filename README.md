@@ -41,7 +41,7 @@ Check out the live, deployed version of this project:
 ## 🔑 Setup Instructions
 
 1. **Clone the repo**
-      git clone https://github.com/your-username/sp500-dashboard.gitcd sp500-dashboard
+      https://github.com/ayushgirulkar/sp500_stock.git
 
 
 2. **Install dependencies**.
