@@ -1,6 +1,6 @@
 # sp500_stock (Trevasq Task)
 
-A React + Tailwind CSS project that displays real-time stock prices (mock and live)
+A React + Tailwind CSS project that displays real-time stock prices (mock and live).
 
 🚀 Features
 ✅ Real-time stock updates (every 10 seconds)
