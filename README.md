@@ -41,15 +41,13 @@ Check out the live, deployed version of this project:
 ## 🔑 Setup Instructions
 
 1. **Clone the repo**
-   
-git clone https://github.com/your-username/sp500-dashboard.git
-cd sp500-dashboard
+      git clone https://github.com/your-username/sp500-dashboard.gitcd sp500-dashboard
 
 
-3. **Install dependencies**.
+2. **Install dependencies**.
           npm install.
 
-4. **Get Twelve Data API key**.
+3. **Get Twelve Data API key**.
            Visit https://twelvedata.com
            Create a free account and copy your API key
 
