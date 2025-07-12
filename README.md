@@ -1,1 +1,1 @@
-# sp500_stock
+# sp500_stock (Trevasq Task)
